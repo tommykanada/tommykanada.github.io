@@ -51,7 +51,7 @@ body {
 
     /* typography */
     font-family: KnightsQuestRegular;
-    font-size: 20px;
+    font-size: 14px;
     font-weight: normal;
     text-align: left;
 
@@ -82,7 +82,7 @@ body {
 
 .navigation a:hover  {
     /* colors */
-    color: white;
+    color: black;
 }
 
 #header-navigation div {
@@ -103,7 +103,7 @@ body {
 
 #account-container {
     font-family: KnightsQuestRegular;
-    font-size: 20px;
+    font-size: 14px;
 }
 
 #account-header .account-image {
